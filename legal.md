@@ -1,3 +1,4 @@
+---
 layout: page
 title: Impressum
 permalink: /legal/
@@ -8,9 +9,7 @@ permalink: /legal/
 ### Angaben gemäß \S 5 TMG
 
 Steffi Kurnot
-
 Goethestraße 44
-
 04827 Machern
 
 ### Kontakt
