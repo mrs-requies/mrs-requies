@@ -6,7 +6,7 @@ permalink: /legal/
 
 
 
-### Angaben gemäß \S 5 TMG
+### Angaben gemäß §5 TMG
 
 Steffi Kurnot
 Goethestraße 44
