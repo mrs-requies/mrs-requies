@@ -3,10 +3,10 @@ layout: page
 title: Impressum
 permalink: /legal/
 ---
-Steffi Kurnot_
-Goethestra&#223;e 44_
-04827 Machern_
-Tel: 034292868719_
+Steffi Kurnot<br/>
+Goethestra&#223;e 44<br/>
+04827 Machern<br/>
+Tel: 034292868719<br/>
 mrs.requies@gmail.com
 
 ## Disclaimer - rechtliche Hinweise
