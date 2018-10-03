@@ -7,7 +7,7 @@ Steffi Kurnot<br/>
 Goethestra&#223;e 44<br/>
 04827 Machern<br/>
 Tel: 034292868719<br/>
-mrs.requies@gmail.com
+mrs.requies@gmail.com<br/>
 
 ## Disclaimer - rechtliche Hinweise
 ### Auskunfts- und Widerrufsrecht
