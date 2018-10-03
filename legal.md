@@ -3,20 +3,20 @@ layout: page
 title: Impressum
 permalink: /legal/
 ---
-Steffi Kurnot<br/>
-Goethestra&#223;e 44<br/>
-04827 Machern<br/>
-Tel: 034292868719<br/>
-mrs.requies@gmail.com<br/>
+Steffi Kurnot \
+Goethestra&#223;e 44 \
+04827 Machern \
+Tel: 034292868719 \
+mrs.requies@gmail.com
 
-# Disclaimer - rechtliche Hinweise
-## Auskunfts- und Widerrufsrecht
+## Disclaimer - rechtliche Hinweise
+### Auskunfts- und Widerrufsrecht
 Sie haben jederzeit das Recht, sich unentgeltlich und unverz&#252;glich &#252;ber die zu Ihrer Person erhobenen Daten 
 zu erkundigen. Ebenfalls k&#246;nnen Sie Ihre Zustimmung zur Verwendung Ihrer angegebenen pers&#246;nlichen Daten mit 
 Wirkung f&#252;r die Zukunft widerrufen. Hierf&#252;r wenden Sie sich bitte an den im Impressum angegebenen 
 Diensteanbieter.
 
-## Datenschutz (allgemein)
+### Datenschutz (allgemein)
 Beim Zugriff auf unsere Webseite werden automatisch allgemeine Informationen (sog. Server-Logfiles) erfasst. Diese 
 beinhalten u.a. den von Ihnen verwendeten Webbrowser sowie Ihr Betriebssystem und Ihren Internet Service Provider. Diese 
 Daten lassen keinerlei R&#252;ckschl&#252;sse auf Ihre Person zu und werden von uns statistisch ausgewertet, um unseren 
@@ -58,9 +58,9 @@ Kommentierung zu einem Beitrag nur in dem Umfang wie Sie ihn uns mitgeteilt habe
 Kommentars wird die von Ihnen angegebene Email-Adresse gespeichert, aber nicht ver&#246;ffentlicht. Ihr angegebener Name 
 wird ver&#246;ffentlich. Sie k&#246;nnen auch ein Pseudonym benutzen.
 
-## Disclaimer (Haftungsausschluss)
+### Disclaimer (Haftungsausschluss)
 
-### Haftung f&#252;r Inhalte
+#### Haftung f&#252;r Inhalte
 Als Diensteanbieter sind wir gem&#228;&#223; &#167; 7 Abs. 1 TMG f&#252;r eigene Inhalte auf diesen Seiten nach den 
 allgemeinen Gesetzen verantwortlich. Nach &#167;&#167; 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht 
 verpflichtet, &#252;bermittelte oder gespeicherte fremde Informationen zu &#252;berwachen oder nach Umst&#228;nden zu 
@@ -69,7 +69,7 @@ von Informationen nach den allgemeinen Gesetzen bleiben hiervon unber&#252;hrt. 
 jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung m&#246;glich. Bei Bekanntwerden von 
 entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
 
-### Haftung f&#252;r Links
+#### Haftung f&#252;r Links
 Diese Website enth&#228;lt Links zu externen Webseiten Dritter, auf deren Inhalte kein Einfluss genommen werden kann. 
 Deshalb kann f&#252;r diese fremden Inhalte auch keine Gew&#228;hr &#252;bernommen werden. F&#252;r die Inhalte der 
 verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden 
@@ -78,7 +78,7 @@ zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontro
 konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige 
 Links umgehend von dieser Website auf die rechtsverletzende Site entfernen.
 
-### Urheberrecht
+#### Urheberrecht
 Die durch die Diensteanbieter, deren Mitarbeiter und beauftragte Dritte erstellten Inhalte und Werke auf diesen Seiten 
 unterliegen dem deutschen Urheberrecht. Die Vervielf&#228;ltigung, Bearbeitung, Verbreitung und jede Art der Verwertung 
 au&#223;erhalb der Grenzen des Urheberrechtes bed&#252;rfen der vorherigen schriftlichen Zustimmung des jeweiligen Autors 
