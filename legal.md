@@ -3,7 +3,6 @@ layout: page
 title: Impressum
 permalink: /legal/
 ---
-<h1>Impressum</h1>
 <p>Steffi Kurnot<br/>
 Goethestra&#223;e 44<br/>
 04827 Machern<br/>
@@ -11,7 +10,6 @@ Tel: 034292868719<br/>
 <a href="mailto:mrs.requies@gmail.com">mrs.requies@gmail.com</a>
 </p>
 <meta name="generator" content="Impressum-Generator der Kanzlei Hensche Rechtsanwälte"/>
-<p>&nbsp;</p>
 <h1>Disclaimer - rechtliche Hinweise</h1>
 <p><strong>Auskunfts- und Widerrufsrecht</strong></p>
 <p>Sie haben jederzeit das Recht, sich unentgeltlich und unverz&#252;glich &#252;ber die zu Ihrer Person erhobenen Daten 
@@ -69,7 +67,7 @@ Deshalb kann f&#252;r diese fremden Inhalte auch keine Gew&#228;hr &#252;bernomm
 verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden 
 zum Zeitpunkt der Verlinkung auf m&#246;gliche Rechtsverst&#246;&#223;e &#252;berpr&#252;ft. Rechtswidrige Inhalte waren 
 zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne 
-konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden derartige 
+konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige 
 Links umgehend von dieser Website auf die rechtsverletzende Site entfernen.</p>
 <p><strong>3. Urheberrecht</strong></p>
 <p>Die durch die Diensteanbieter, deren Mitarbeiter und beauftragte Dritte erstellten Inhalte und Werke auf diesen Seiten 
@@ -79,7 +77,7 @@ bzw. Erstellers. Downloads und Kopien dieser Seite sind nur f&#252;r den private
 gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter 
 beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine 
 Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von 
-Rechtsverletzungen werden derartige Inhalte umgehend entfernen.</p>
+Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.</p>
 <p>&nbsp;</p>
 <p>Dieses Impressum wurde mit Hilfe des <a target="_blank" 
 href="http://www.hensche.de/impressum-generator.html">Impressum-Generators</a> von <a target="_blank" 
