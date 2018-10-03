@@ -10,13 +10,13 @@ Tel: 034292868719<br/>
 <a href="mailto:mrs.requies@gmail.com">mrs.requies@gmail.com</a>
 </p>
 <meta name="generator" content="Impressum-Generator der Kanzlei Hensche Rechtsanwälte"/>
-<h1>Disclaimer - rechtliche Hinweise</h1>
+### Disclaimer - rechtliche Hinweise
 <p><strong>Auskunfts- und Widerrufsrecht</strong></p>
 <p>Sie haben jederzeit das Recht, sich unentgeltlich und unverz&#252;glich &#252;ber die zu Ihrer Person erhobenen Daten 
 zu erkundigen. Ebenfalls k&#246;nnen Sie Ihre Zustimmung zur Verwendung Ihrer angegebenen pers&#246;nlichen Daten mit 
 Wirkung f&#252;r die Zukunft widerrufen. Hierf&#252;r wenden Sie sich bitte an den im Impressum angegebenen 
 Diensteanbieter.</p>
-<P><STRONG>Datenschutz (allgemein)</STRONG></P>
+## Datenschutz (allgemein)
 <P>Beim Zugriff auf unsere Webseite werden automatisch allgemeine Informationen (sog. Server-Logfiles) erfasst. Diese 
 beinhalten u.a. den von Ihnen verwendeten Webbrowser sowie Ihr Betriebssystem und Ihren Internet Service Provider. Diese 
 Daten lassen keinerlei R&#252;ckschl&#252;sse auf Ihre Person zu und werden von uns statistisch ausgewertet, um unseren 
